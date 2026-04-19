@@ -1,10 +1,11 @@
 # interesting_docs
 Свалка интересных неотсортированных документов
-## Диссертация на магистра на русском языке. Полезно для начинающих.
+# Docs:
+## 1. Диссертация на магистра на русском языке. Полезно для начинающих.
 https://earchive.tpu.ru/bitstream/11683/40618/1/TPU410043.pdf
 TPU410043
 
-## Большой проект украинцев в Португалии. Много полезного
+## 2. Большой проект украинцев в Португалии. Много полезного
 https://vibromera.eu/
 Balanset-1A Portable Balancer Manual - Dynamic Balancing.pdf
 Составные части:
@@ -17,3 +18,10 @@ Magnetständer, 60 kgf, mit Feineinstellung, INSIZE 6201-60 - https://www.insz.a
 1. Убрать сигнальные провода от датчиков - через wifi, bluetooth. Вопрос с питанием - можно по проводу к powerbank. ChatGPT утверждает, что это возможно, если правильно обрабатывать, например, использовать приход пакета не как метку времени, а как номер оборота+период оборота.
 2. Заменить датчик на ADXL355(2,4,8g) или 357(10,20,40g) - EVAL-ADXL355-PMDZ у Moser 49,00€, на Alibaba тоже. ChatGPT предлагает ADXL355+ESP32
 3. Выбрать Digitaler Drehzahlmesser в более нейтральном корпусе или перенести в другой корпус и добавить bluetooth. ChatGPT предлагает LM393+ESP32. https://eckstein-shop.de/Waveshare-Infrared-Reflective-Sensor-Wide-Range-Voltage-Comparator-LM393 4,00€.
+
+### Простейшая система, которую можно будет развивать
+1. 2x ADXL345 - 1,65 bei https://www.amazon.de/ADXL345-3-Achsen-Digital-Beschleunigung-der-Schwerkraft-Neigung/dp/B0GDV9BKW3/ref=asc_df_B0GDV9BKW3?mcid=6cfbaf32e3ba3cecb27fd44287ff7af3&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=696222516891&hvpos=&hvnetw=g&hvrand=12898539370183769966&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042022&hvtargid=pla-2478177908819&psc=1&hvocijid=12898539370183769966-B0GDV9BKW3-&hvexpln=0
+
+2. 1x https://eckstein-shop.de/Waveshare-Infrared-Reflective-Sensor-Wide-Range-Voltage-Comparator-LM393 4,00€.
+
+3. 1x ESP32, у меня есть.
