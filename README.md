@@ -16,12 +16,14 @@ Magnetständer, 60 kgf, mit Feineinstellung, INSIZE 6201-60 - https://www.insz.a
 
 ### Что можно улучшить
 1. Убрать сигнальные провода от датчиков - через wifi, bluetooth. Вопрос с питанием - можно по проводу к powerbank. ChatGPT утверждает, что это возможно, если правильно обрабатывать, например, использовать приход пакета не как метку времени, а как номер оборота+период оборота.
-2. Заменить датчик на ADXL355(2,4,8g) или 357(10,20,40g) - EVAL-ADXL355-PMDZ у Moser 49,00€, на Alibaba тоже. ChatGPT предлагает ADXL355+ESP32
-3. Выбрать Digitaler Drehzahlmesser в более нейтральном корпусе или перенести в другой корпус и добавить bluetooth. ChatGPT предлагает LM393+ESP32. https://eckstein-shop.de/Waveshare-Infrared-Reflective-Sensor-Wide-Range-Voltage-Comparator-LM393 4,00€.
+2. Заменить датчик на ADXL355(2,4,8g) или 357(10,20,40g) - EVAL-ADXL355-PMDZ у Moser 49,00€, на Alibaba тоже. ChatGPT предлагает ADXL355+ESP32. Бюджетный вариант ADXL345 - 1,65€ https://www.amazon.de/ADXL345-3-Achsen-Digital-Beschleunigung-der-Schwerkraft-Neigung/dp/B0GDV9BKW3/ref=asc_df_B0GDV9BKW3?mcid=6cfbaf32e3ba3cecb27fd44287ff7af3&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=696222516891&hvpos=&hvnetw=g&hvrand=2182439717997627744&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042022&hvtargid=pla-2478177908819&psc=1&hvocijid=2182439717997627744-B0GDV9BKW3-&hvexpln=0 , alibaba <1,00€
+3. Выбрать Digitaler Drehzahlmesser в более нейтральном корпусе или перенести в другой корпус и добавить bluetooth. ChatGPT предлагает переделать готовый Digitaler Drehzahlmesser
 
 ### Простейшая система, которую можно будет развивать
-1. 2x ADXL345 - 1,65 bei https://www.amazon.de/ADXL345-3-Achsen-Digital-Beschleunigung-der-Schwerkraft-Neigung/dp/B0GDV9BKW3/ref=asc_df_B0GDV9BKW3?mcid=6cfbaf32e3ba3cecb27fd44287ff7af3&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=696222516891&hvpos=&hvnetw=g&hvrand=12898539370183769966&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042022&hvtargid=pla-2478177908819&psc=1&hvocijid=12898539370183769966-B0GDV9BKW3-&hvexpln=0
+1. 2x ADXL345 - 1,65 bei https://www.amazon.de/ADXL345-3-Achsen-Digital-Beschleunigung-der-Schwerkraft-Neigung/dp/B0GDV9BKW3/ref=asc_df_B0GDV9BKW3?mcid=6cfbaf32e3ba3cecb27fd44287ff7af3&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=696222516891&hvpos=&hvnetw=g&hvrand=12898539370183769966&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042022&hvtargid=pla-2478177908819&psc=1&hvocijid=12898539370183769966-B0GDV9BKW3-&hvexpln=0 - заказал
 
-2. 1x https://eckstein-shop.de/Waveshare-Infrared-Reflective-Sensor-Wide-Range-Voltage-Comparator-LM393 4,00€.
+2. 1x плата тахо (переделать готовый Digitaler Drehzahlmesser, для начала SEAFRONT HS2234 чтобы не было сюрпризов) - заказал.
 
 3. 1x ESP32, у меня есть.
+
+4. Провод - Cat5e, 6e STP(! экранированный) гибкий называется hochflexibles, schleppkettenfähiges Ethernet-Kabel
