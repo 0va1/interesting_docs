@@ -35,7 +35,10 @@ Magnetständer, 60 kgf, mit Feineinstellung, INSIZE 6201-60 - https://www.insz.a
 Тогда легко менять количество плоскостей.
 Для уменьшения влияния датчика на измерения, датчик может отстыкавываться от ESP32. При этом также уменьшаются вибрационные нагрузки на ESP32.
 
-# Самодельный станок для мини-турбин с точностью до 1 мг на ADXL335+ESP32 с кодом
+# Самодельный станок для мини-турбин с точностью до 1 мг на ADXL335/BMI160+ESP32 с кодом
+Самодельный станок в рамках проекта создания турбины. Очень качественные видео. Автор проекта с многолетним опытом (>40 лет был engineer in the Space Industry)
+https://www.youtube.com/watch?v=dkPkfLmtImY - BMI160 accelerometer vs ADXL335
+https://www.youtube.com/watch?v=KMYbToyST1M - 2x BMI160 accelerometer + ESP32
 https://hackaday.com/2026/01/25/balancing-a-turbine-rotor-to-1-mg-with-a-diy-dynamic-balancer/
 https://www.youtube.com/watch?v=oMzTQzkCGVw
 
