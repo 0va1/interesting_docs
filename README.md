@@ -50,3 +50,10 @@ rotor10.pdf (https://venghaus.eu/skripte/rotor10.pdf)
 
 # Американская фирма с калькулятором по нормам
 https://balancetechnology.com
+
+# Где взять схемы
+Усилитель для пьезо https://www.analog.com/en/resources/reference-designs/circuits-from-the-lab/CN0350.html
+Компоненты на 20€, плата 72€ у farnell
+
+# Описание датчиков
+Rodionov_2019.pdf
