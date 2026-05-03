@@ -54,6 +54,7 @@ https://balancetechnology.com
 # Где взять схемы
 Усилитель для пьезо https://www.analog.com/en/resources/reference-designs/circuits-from-the-lab/CN0350.html
 Компоненты на 20€, плата 72€ у farnell
+Там используется OP https://www.analog.com/en/products/ad8608.html (4-5€) + ADC https://www.analog.com/en/products/ad7091r.html (6-8€)
 
 # Описание датчиков
 Rodionov_2019.pdf
