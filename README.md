@@ -58,3 +58,7 @@ https://balancetechnology.com
 
 # Описание датчиков
 Rodionov_2019.pdf
+
+# Книга от лидера в датчиках
+https://www.bksv.com/media/doc/bn1330.pdf?utm_source=chatgpt.com
+Слишком большая для слива на склад
