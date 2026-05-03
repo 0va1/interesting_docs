@@ -42,6 +42,9 @@ https://www.youtube.com/watch?v=KMYbToyST1M - 2x BMI160 accelerometer + ESP32
 https://hackaday.com/2026/01/25/balancing-a-turbine-rotor-to-1-mg-with-a-diy-dynamic-balancer/
 https://www.youtube.com/watch?v=oMzTQzkCGVw
 
+# Описание пьезодатчика и требований к усилителю
+https://www.f3lix-tutorial.com
+
 # Теория (параллельный текст англ/нем)
 rotor10.pdf (https://venghaus.eu/skripte/rotor10.pdf)
 
