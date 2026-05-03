@@ -48,3 +48,5 @@ https://www.f3lix-tutorial.com
 # Теория (параллельный текст англ/нем)
 rotor10.pdf (https://venghaus.eu/skripte/rotor10.pdf)
 
+# Американская фирма с калькулятором по нормам
+https://balancetechnology.com
