@@ -57,8 +57,13 @@ https://balancetechnology.com
 Там используется OP https://www.analog.com/en/products/ad8608.html (4-5€) + ADC https://www.analog.com/en/products/ad7091r.html (6-8€)
 
 # Датчики
-Ускорений 66212APZ1 (50mV/g 83€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212APZ1?qs=Znm5pLBrcAIMd0AYHgZLCg%3D%3D),
-        66212ANZ1 (100mV/g 126€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212ANZ1?qs=Znm5pLBrcALF1hNqEZNNJA%3D%3D)
+## Ускорений 
+66212APZ1 (50mV/g 83€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212APZ1?qs=Znm5pLBrcAIMd0AYHgZLCg%3D%3D),
+66212ANZ1 (100mV/g 126€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212ANZ1?qs=Znm5pLBrcALF1hNqEZNNJA%3D%3D)
+
+## Силы
+На Alibaba искать PE High-Precision Piezoelectric Force Sensor Transducer Transmitter Dynamic Impact and Quasi-Static Force Measurement Monitoring.
+Цена на выход заряд - от 100€, IEPE circuit (типа открытый коллектор) - от 200€
 
 # Описание датчиков
 Rodionov_2019.pdf
