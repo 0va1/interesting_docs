@@ -56,9 +56,26 @@ https://balancetechnology.com
 Компоненты на 20€, плата 72€ у farnell
 Там используется OP https://www.analog.com/en/products/ad8608.html (4-5€) + ADC https://www.analog.com/en/products/ad7091r.html (6-8€)
 
+# Датчики
+Ускорений 66212APZ1 (50mV/g 83€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212APZ1?qs=Znm5pLBrcAIMd0AYHgZLCg%3D%3D),
+        66212ANZ1 (100mV/g 126€ https://www.mouser.de/ProductDetail/Amphenol-PCB-Piezotronics/66212ANZ1?qs=Znm5pLBrcALF1hNqEZNNJA%3D%3D)
+
 # Описание датчиков
 Rodionov_2019.pdf
 
 # Книга от лидера в датчиках
 https://www.bksv.com/media/doc/bn1330.pdf?utm_source=chatgpt.com
 Слишком большая для слива на склад
+
+
+
+
+
+
+
+
+
+
+
+
+
